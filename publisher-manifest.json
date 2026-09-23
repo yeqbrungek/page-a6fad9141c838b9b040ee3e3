@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e43b9d71766c00b4a4120dec",
+  "owner": "yeqbrungek",
+  "repo": "page-a6fad9141c838b9b040ee3e3",
+  "title": "Banana5",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a6fad9141c838b9b040ee3e3",
+      "a": "Banana5",
+      "b": "2027最新官网",
+      "entity": "Banana5",
+      "brand": "Banana5",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8d5ee288b863d8759984f1077ef09b3e85fe07222ace802049064ec8a57a529c",
+      "content": {
+        "primary_entity": "Banana5",
+        "keyword1": "Banana5",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择订阅客户端并完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择适合的套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "轻松接入加速",
+          "AI_DESCRIPTION": "，Banana5 提供基础版、旗舰版与团队版三档套餐，月付从 ¥15 起、年付从 ¥150 起，分别对应每月 100GB、300GB 与 1000GB 流量，并支持 3 台、5 台与 20 台设备同时在线，可根据桌面端、移动端的订阅配置需求灵活选用。",
+          "AI_FEATURES_INTRO": "围绕套餐、设备与周期三项展开。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月、年付 ¥150，100GB 流量与 3 台设备适合轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月、年付 ¥350，300GB 流量、5 台设备与 IPLC 专线。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月、年付 ¥850，1000GB 流量与 20 台设备满足多人协作。",
+          "AI_FEATURE_TITLE_1": "按用量选档",
+          "AI_FEATURE_TITLE_2": "看设备数量",
+          "AI_FEATURE_TITLE_3": "定订阅周期",
+          "AI_GUIDE_INTRO": "按选择套餐、核对设备、导入订阅的顺序操作。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "Banana5 面向需要跨区访问与影音游戏加速的用户，提供基础版、旗舰版、团队版三档套餐，流量从 100GB 到 1000GB，并对应 3 至 20 台设备同时在线，方便按实际用量与终端数量挑选。",
+          "AI_HERO_SUBTITLE": "跨区加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月起，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年含 100GB 流量与 3 台设备；旗舰版 ¥35/月或 ¥350/年含 300GB 流量、5 台设备与 IPLC 专线；团队版 ¥85/月或 ¥850/年含 1000GB 流量与 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与在线设备数量，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认所用设备的系统与版本，检查是否落在套餐支持的设备数量范围内。",
+          "AI_STEP_TEXT_3": "参照对应客户端的订阅配置说明完成导入，并按需调整路由与节点。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对设备",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Banana5 加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版 100GB/月、旗舰版 300GB/月、团队版 1000GB/月，按月计费，年付价格分别为 150 元、350 元与 850 元。重度流媒体使用建议选择旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。多台设备共用同一订阅时，请留意并发数量限制，超出后新设备可能无法连接。",
+          "AI_FAQ_ANSWER_3": "在对应客户端中导入订阅链接或配置文件，保存后选择节点连接。不同系统的客户端导入方式略有差异，建议依照客户端文档操作。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线与全节点原生流媒体解锁，团队版提供 VIP 高带宽节点，适合对延迟与画质有要求的场景。基础版提供普通线路节点池，日常浏览够用。",
+          "AI_FAQ_ANSWER_5": "年付相比月付更划算，基础版年付 150 元、旗舰版 350 元、团队版 850 元。长期使用推荐直接选择年付，短期试用可先选月付再升级。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的流量和价格分别是什么？",
+          "AI_FAQ_QUESTION_2": "每档套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "如何在客户端配置订阅？",
+          "AI_FAQ_QUESTION_4": "哪档套餐适合流媒体和游戏加速？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选更划算？",
+          "AI_FAQ_TITLE": "常见问题解答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shadowrocketxy.com",
+    "host": "shadowrocketxy.com"
+  },
+  "file_hashes": {
+    "index.html": "daa966dc78112474b92c52d064bf8b97400ebc41c2241ad0ed45e8185b4a4e30",
+    "sitemap.xml": "aa83cbf6454aa0a6e1a15083e8277574a349baeb78c466aa952d9c568d9fd96f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d44fda04578b0a8210d1492cd3f900d1470aa28e5426a7d7532fa71bb288b95b",
+    "robots.txt": "21c8536aecbcca0a2f7aa07129ade7324458a77e7631302e8f4333c2182b6d6d",
+    "621ea83709fa9e41b382da4730a8e641.txt": "6166de829a823839a690cfebbb6fa0003de481945c7795f704dcb456a614793c"
+  },
+  "revision": "614c1bfba951c828231b13f41c3f52c53ae331b0e07f1a3c688913bae69a4527"
+}
